@@ -1,0 +1,55 @@
+{
+    "Version": "1",
+    "ModID": "Goods_Trade_Redone",
+    "IncompatibleIds": [
+      ""
+    ],
+    "ModDependencies": null,
+    "Category": {
+      "Chinese": null,
+      "English": "Gameplay",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "ModName": {
+      "Chinese": null,
+      "English": "Goods Trade Price Redone",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "Description": {
+      "Chinese": null,
+      "English": "Rebalances the trade price of goods to depend on the cost to manufacture them (building maintenance and input goods).",
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    },
+    "KnownIssues": null,
+    "DLCDependencies": [
+      {
+      }
+    ],
+    "CreatorName": "PillagingPagans",
+    "CreatorContact": "https://discord.gg/YTQGDFK",
+    "Image" : null
+  }
